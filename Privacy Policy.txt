@@ -1,0 +1,59 @@
+Privacy Policy
+Updated Mar 15, 2020
+At Reprova, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. We’ll also explain what choices you have with respect to the information.
+Applicability Of This Privacy Policy
+This Privacy Policy applies to Reprova desktop and mobile applications (collectively, the “Products”), Reprova.com and other Reprova websites (collectively, the “Sites”) and other interactions (e.g., customer service inquiries, user conferences, etc.) you may have with Reprova. If you do not agree with the terms, do not access or use the Products, Sites or any other aspect of Reprova’s business.
+The policy does not apply to third party services. Where third party services are used, and the third party is not a Data Processor, no Relevant Data (as defined below) is shared with them, or the Relevant Data has been anonymised such that the GDPR does not apply. Information collected by third parties is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+This policy applies to Relevant Data received and processed only.
+Information We Collect and Receive
+When you interact with our Sites and Products, we collect Information that, alone or in combination with other data, could be used to identify you (Personal Data). Some of the Information we collect is stored in a manner that cannot be linked back to you (Non-Personal Data).
+Reprova collects, generates and/or receives the following Information:
+Usage Information
+Certain data about the devices you use to connect with Reprova and your use of the Site and/or Product are automatically logged in our systems, including:
+	•	Сontact details, namely, email.
+	•	Location information. This is the geographic area where you use your computer and mobile devices (as indicated by an Internet Protocol [IP] address or similar identifier) when interacting with our Site and/or Product.
+	•	Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site and/or Product and record it in log files. This log data may include the IP address, browser type and settings, the date and time of use, information about browser configuration, language preferences, and cookie data.
+	•	Product and Site Specific Data. This is information about the Site and/or Product you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site and/or Product. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
+	•	Device information. These are data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using Reprova Product.
+The detailed information on the basis for collection, storage and processing of each type of personal information is provided in Lawful Basis for Personal Data Processing section of Privacy Policy.
+Cookies
+Reprova uses cookies and similar technologies in our Site and Services that help us collect Other Information. The Site and Services may also include cookies and similar tracking technologies of third parties, which may collect Other Information about you via the Site and Services and across other websites and online services.
+Third Party Data
+Reprova may receive data about Site visitors, marketing campaigns and other matters related to our business from affiliates and subsidiaries, our partners or others that we use to make our own information better or more useful. This data may be combined with Other Information we collect and might include aggregate level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific: for example, how well an online marketing or email campaign performed.
+Additional Information Provided to Reprova
+We receive Other Information when submitted to our Site or if you participate in a focus group, contest, activity or event, apply for a job, request support, interact with our social media accounts or otherwise communicate with Reprova.
+Collection Information from Children
+Reprova does not knowingly collect personal information from children under the age of 13. If we determine we have collected personal information from a child younger than 13 years of age, we will take reasonable measures to remove that information from our systems. If you are under the age of 13, please do not submit any personal information through the Site and/or Products. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through the Sites and/or Products without their permission.
+Using Your Information
+We use, process, and store your information as necessary to perform our contract with you and for our legitimate business interests, in operating our Sites, Products, Services, and business
+How We Share And Disclose Information
+We only disclose Personal Data to third parties when:
+	•	We use service providers who assist us in meeting business operations needs, including hosting, delivering, and improving our Products. We also use service providers for specific services and functions, including email communication, customer support services, and analytics. These service providers may only access, process, or store Personal Data pursuant to our instructions and to perform their duties to us.
+	•	We have your explicit consent to share your Personal Data (if required).
+	•	We believe it is necessary to investigate potential violations of the Terms of Products, to enforce those Terms of Products, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or potential threats against persons, property, or the systems on which we operate our Site and/or Products.
+	•	We determine that the access, preservation, or disclosure of your Personal Data is required by law to protect the rights, property, or personal safety of Reprova and users of our Site and/or Products, or to respond to lawful requests by public authorities, including national security or law enforcement requests.
+	•	We need to do so in connection with a merger, acquisition, bankruptcy, reorganization, sale of some or all of our assets or stock, public offering of securities, or steps in consideration of such activities (e.g., due diligence). In these cases some or all of your Personal Data may be shared with or transferred to another entity, subject to this Privacy Policy.
+	•	We may disclose Non-Personal Data publicly and to third parties – for example, in public reports about word usage, to partners under agreement with us, or as part of progress reports we may provide to users.
+Reprova does not share your Personal Data/personallyidentifiable information with third parties for the purpose of enabling them to deliver their advertisements to you.
+Reprova does not sell or rent your Personal Data.
+Third Parties’ Applications and Products
+Some third-party applications and services that work with us may ask for permission to access your information. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully.
+Some third parties’ embedded content or plugins on our Sites and/or Products, such as Facebook “Like” buttons, may allow their operators to learn that you have visited the Sites, and they may combine this knowledge with other data they have collected about your visits to other websites or online services that can identify you.
+Data collected by third parties through these apps and plugins is subject to each parties’ own policies. We encourage you to read those policies and understand how other companies use your data.
+E-mailing by Reprova
+From time to time, we may want to contact you with information about product announcements, software updates, and special offers. We also may want to contact you with information about products and services from our business partners.
+We only send marketing communications to users with your prior consent.
+All Reprova account holders will continue to receive transactional messages related to our Products, even if you unsubscribe from promotional emails.
+Data Storage and Transfers
+When you use the Product on your computing device, user content you save will be stored locally on that device and synced with our servers. If you post or transfer any information to or through our Site and/or Product, you are agreeing to such information, including Personal Data and user content, being hosted.
+Duration of Information Storage
+As the general rule, we retain your data while you are a customer (some types of data are automatically deleted every 30 days) and will delete your information within 30 days of either party’s termination of the Terms of Use or upon written request. You can remove your Personal Data from Reprova at any time by emailing us with the respective request: [email protected] However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations.
+Safeguards
+When you give us personal information, we take steps to make sure that it’s treated securely.
+Non-sensitive details (your email address etc.) are sent normally over the Internet, and this can never be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. Once we receive your information, we make our best effort to ensure its security on our systems.
+We use industry-standard encryption to protect your data in transit. This is commonly referred to as transport layer security (“TLS”) or secure socket layer (“SSL”) technology.
+Once we receive your data, we protect it on our servers using a combination of technical, physical, and logical security safeguards. The security of the data stored locally in any of our Product installed on your computing device requires that you make use of the security features of your device. We recommend that you take the appropriate steps to secure all computing devices that you use in connection with our Site and Product.
+The Company takes the security of your data very seriously and works to protect your data from loss, misuse and unauthorised access or disclosure.
+All staff and officers who handle Relevant Data are aware of this policy and have been given training in how to correctly collect, process, store and delete data. The Company holds a log of when staff training was undertaken and updates it on an annual basis.
+Contact us
+You may contact us with any questions relating to this Privacy Policy by e-mailing: [email protected]
